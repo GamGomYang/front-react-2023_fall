@@ -1,0 +1,11 @@
+메테리얼 설치
+npm install @material-ui
+npm install styled-components
+
+MostPopular.js 에서 이미지 경로: import jordanscott from './images/item/jordanscott.png';
+
+//이미지 경로 우회방법 확인해보기
+//기존 메뉴 라우팅 방법 알아보기 useRef문제 해결
+
+
+https://stockx.com/ko-kr
